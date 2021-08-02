@@ -1,12 +1,21 @@
 h1 {
-    color: #000aa0; background: orange;
-  }
-body {
-    background: beige;
-  }
-li {
-    color: black; background-color: tan;
+    color: black; background: darkgray;
 }
-ul  {
-    color: black; background-color: tan;
+h2 {
+    color: black; background-color: silver;
+}
+h3 {
+    color: black; background: silver;
+}
+p {
+    color: black
+}
+body {
+    background: gainsboro;
+}
+li {
+    background-color: lightgray;
+}
+ol {
+    color: black; background-color: lightgray;
 }
