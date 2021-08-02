@@ -1,12 +1,12 @@
 h1 {
-    color: #000aa0; background: #0000ff;
+    color: #000aa0; background: orange;
   }
 body {
-    background-color: beige;
+    background: beige;
   }
 li {
-    color: black;
+    color: black; background-color: tan;
 }
 ul  {
-    color: black;
+    color: black; background-color: tan;
 }
